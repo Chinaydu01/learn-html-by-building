@@ -1,9 +1,5 @@
 # learn-html-by-building
 Learn HTML fundamentals by building a real portfolio website. Covers all essential elements with practical examples - perfect for beginners!
-# Learn HTML By Building 🚀
-
-> Stop reading tutorials, start building! Learn every HTML element by creating a real portfolio website. No CSS required - pure HTML fundamentals.
-
 ## 📋 Table of Contents
 - [About This Project](#about-this-project)
 - [What You'll Learn](#what-youll-learn)
